@@ -1,0 +1,5 @@
+UI bugs:
+1. độ ẩm 100% sẽ đè lên chữ %
+2. ở màn hình setting time, bấm UP thì chạy xuống, bấm DOWN thì chạy lên.
+3. ở màn hình view cường độ dòng điện -> chưa có timer update.
+
